@@ -1,4 +1,4 @@
-# WafLogToCsvConverter
+# WafLogCsvConverter
 
 Azure Application Gateway Web Application Firewall (WAF) logs are written to a Storage Account as .JSON files when a Storage Account is the destination in a Diagnostic Settings configuration. This is a simple PowerShell script that converts the logs from .JSON to .CSV for easier reviewal or analysis.
 
